@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "wxc35991576e736584",
+  APP_ID: "wx22db56c4523abe6d",
 
   // 公众号APP_SECRET
-  APP_SECRET: "db28f4120d087bc809b42454610d0f74",
+  APP_SECRET: "ebedd4bc8c3a084ddd70ce3598aab69a",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -16,9 +16,9 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "老婆0",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "otqva6XpCJj3TFsfdkvsI0cSzHSA",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "7YstppX7Clg6DKEctD6LFr3AacTu_nzvaaCWcGvf_u0",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://www.weibo.com/"
    *   }, 
